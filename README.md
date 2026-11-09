@@ -14,3 +14,12 @@ Frameworks    | FastAPI, Streamlit, PyTorch
 Repos         | 18 Repos (15 Contributions)
 Interests     | Multimodal AI, System Architecture, Competitive Programming
 -------------------------------------------------------------------------
+```
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=balajeepushkar14&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balajeepushkar14&layout=compact&theme=tokyonight)
+
+### AI & System Engineer
+
+I care about how complex systems scale, efficient data flow, and building AI models that solve real-world problems.
+
+Most of my work revolves around Python and system development. I'm comfortable across the stack, but backend APIs, robust caching architectures, and data processing align more naturally with how I think.
