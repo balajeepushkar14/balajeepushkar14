@@ -1,7 +1,3 @@
-```text
--------------------------------------------------------------------------
-~ > whoami -> balajee pushkar
-
 Role          | Advanced Technology Engineer @ Accenture
 OS            | Linux / Windows 11
 Host          | KIIT University
@@ -14,12 +10,13 @@ Frameworks    | FastAPI, Streamlit, PyTorch
 Repos         | 18 Repos (15 Contributions)
 Interests     | Multimodal AI, System Architecture, Competitive Programming
 -------------------------------------------------------------------------
-```
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=balajeepushkar14&show_icons=true&theme=tokyonight&v=1" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=balajeepushkar14&show_icons=true&theme=tokyonight&v=2" alt="GitHub stats" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajeepushkar14&layout=compact&theme=tokyonight&v=1" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balajeepushkar14&layout=compact&theme=tokyonight&v=2" alt="Top Langs" />
 </div>
+
 ### AI & System Engineer
 
 I care about how complex systems scale, efficient data flow, and building AI models that solve real-world problems.
